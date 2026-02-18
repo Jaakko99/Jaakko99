@@ -71,7 +71,7 @@ Physics-inspired simulation of interacting timelines in 2D temporal space, visua
 `Phoenix` `Firebase` `OTP / BEAM`
 
 **Concepts I care about**
-`Concurrency` `On-device ML` `BLE / IoT` `Real-time systems` `Monte Carlo simulations`
+`Concurrency` `On-device ML and ML/AI generally` `BLE / IoT` `Real-time systems` `Physics`
 
 ---
 
