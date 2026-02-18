@@ -45,7 +45,7 @@ A lightweight async BLE device scanner and fingerprinting tool for reverse-engin
 
 ---
 
-### [Capacitor AI Recolor](https://github.com/Jaakko99/capacitor-ai-recolor)
+### [Capacitor AI Recolor](https://github.com/Jaakko99/capacitor-AI-plugin)
 > *Kotlin · ML Kit · CoreML · Capacitor*
 
 A native Capacitor plugin for on-device object segmentation and recoloring. Uses ML Kit (Android) and CoreML (iOS) to isolate and recolor objects in images — entirely on-device, no data leaves the phone. Built for product visualization, interior design, and virtual try-ons.
