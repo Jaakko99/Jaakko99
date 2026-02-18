@@ -53,7 +53,7 @@ A native Capacitor plugin for on-device object segmentation and recoloring. Uses
 ---
 
 ### [Timeline field Ripple Simulator](https://github.com/Jaakko99/ripple-effect-simulation)
-> *Kotlin · ML Kit · CoreML · Capacitor*
+> *Python*
 
 Physics-inspired simulation of interacting timelines in 2D temporal space, visualizing ripples, interference, mergers, and time reversals. Treats timelines as wave packets with phase, energy, and direction — exploring emergent behavior through quantum analogies, cosmology, and speculative temporal mechanics. Built to test intuition about timeline paradoxes and convergence.
 
