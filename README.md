@@ -60,7 +60,7 @@ Physics-inspired simulation of interacting timelines in 2D temporal space, visua
 ## Tech Stack
 
 **Languages**
-`Elixir` `Rust` `Kotlin` `C++` `TypeScript` `Python` `Dart`
+`Elixir` `Rust` `Kotlin` `TypeScript` `Python` `Javascript`, `C++`, `C#`
 
 **Frontend & Mobile**
 `Angular` `Phoenix LiveView` `Capacitor`
@@ -75,7 +75,7 @@ Physics-inspired simulation of interacting timelines in 2D temporal space, visua
 
 ## A bit about me
 
-No CS degree. Just curiosity, late nights, and a habit of asking *"what happens if I push this further?"*
+No CS degree. Just curiosity, late nights, and a habit of asking *"How can i build this now?"*
 
 3 years of production full stack experience — from real-time wearable health data to stress-testing JavaScript runtimes with Elixir — picking up languages like Rust and Elixir not because they were trendy, but because the problems demanded them.
 
@@ -83,4 +83,4 @@ I care about writing code that's honest about what it's doing — readable, well
 
 ---
 
-📬 **Open to opportunities** — feel free to reach out!
+ **Open to opportunities** — feel free to reach out!
