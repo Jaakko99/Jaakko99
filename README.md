@@ -31,7 +31,7 @@ A high-concurrency stress-testing engine that uses the BEAM VM to spawn thousand
 
 ---
 
-### [Monte Carlo Neutron Transport Simulator](https://github.com/Jaakko99/mcnts)
+### [Monte Carlo Neutron Transport Simulator](https://github.com/Jaakko99/Monte-Carlo-Neutron-Transport)
 > *C++ · Monte Carlo Methods · Nuclear Physics*
 
 Educational physics simulation modeling neutron behavior in fissile material using stochastic methods. Inspired by the computational challenges faced at Los Alamos during the Manhattan Project — recreating foundational criticality calculations with modern C++. Transitioned from Python prototype to high-performance C++ to handle exponential scaling.
