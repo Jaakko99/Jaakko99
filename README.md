@@ -4,7 +4,7 @@
 
 ---
 
-I'm a self-taught developer with 3 years of full stack experience, driven by curiosity more than curriculum. I don't stick to one stack — I pick the right tool for the problem, whether that's Elixir's concurrency model, Rust's memory safety, or on-device ML on mobile.
+I'm a self-taught developer with 3 years of full stack experience, driven by curiosity more than curriculum. I don't stick to one stack — I focus on building production-ready systems across web, mobile, and backend environments.
 
 ---
 
@@ -75,7 +75,7 @@ Physics-inspired simulation of interacting timelines in 2D temporal space, visua
 
 ## A bit about me
 
-No CS degree. Just curiosity, late nights, and a habit of asking *"How can i build this now?"*
+Self-taught developer with 3 years of production experience in full-stack systems. Just curiosity, late nights, and a habit of asking *"How can i build this now?"*
 
 3 years of production full stack experience — from real-time wearable health data to stress-testing JavaScript runtimes with Elixir — picking up languages like Rust and Elixir not because they were trendy, but because the problems demanded them.
 
