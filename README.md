@@ -24,6 +24,17 @@ Day-to-day developer on a small team building a cross-platform athlete safety pl
 
 ## Featured Projects
 
+### [CapCore — Next-Gen Native Capacitor Framework](https://github.com/Jaakko99/Capcore)
+> *Kotlin · ML Kit · CoreML · Capacitor*
+
+A modular, high-performance suite of native mobile plugins designed to unlock enterprise-grade hardware capabilities for hybrid web applications. Built as a unified pnpm/npm-workspaced monorepo architecture to cleanly decouple native runtime engines from sandbox playgrounds.
+
+* **`@capcore/vision` (Current Engine):** An on-device object segmentation and intelligent recoloring engine utilizing Google ML Kit (Android) and CoreML (iOS). Runs entirely local on the device hardware to ensure zero data egress and zero cloud API latencies. Built for virtual try-ons, product visualization, and interior design.
+* **The Roadmap:** Expanding the ecosystem with **CapVision AR** (bypassing standard camera viewports to inject native ARCore/ARKit pipelines beneath transparent webviews) and **CapBrain** (local mobile LLM execution via ONNX Runtime Mobile/MediaPipe for private on-device RAG layers).
+
+---
+
+
 ### [Aegis — Framework Siege Lab](https://github.com/Jaakko99/aegis)
 > *Elixir · Phoenix LiveView · OTP*
 
@@ -42,13 +53,6 @@ Educational physics simulation modeling neutron behavior in fissile material usi
 > *Rust · Tokio · btleplug*
 
 A lightweight async BLE device scanner and fingerprinting tool for reverse-engineering IoT and sensor devices. Dumps manufacturer-specific data and service UUID payloads — useful when devices have no public API or documentation.
-
----
-
-### [Capacitor AI Recolor](https://github.com/Jaakko99/capacitor-AI-plugin)
-> *Kotlin · ML Kit · CoreML · Capacitor*
-
-A native Capacitor plugin for on-device object segmentation and recoloring. Uses ML Kit (Android) and CoreML (iOS) to isolate and recolor objects in images — entirely on-device, no data leaves the phone. Built for product visualization, interior design, and virtual try-ons.
 
 ---
 
