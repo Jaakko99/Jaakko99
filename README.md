@@ -4,23 +4,31 @@
 
 ---
 
-I'm a self-taught developer with 3 years of full stack experience, driven by curiosity more than curriculum. I don't stick to one stack — I focus on building production-ready systems across web, mobile, and backend environments.
+I'm a self-taught developer with 4 years of full stack experience, driven by curiosity. I don't stick to one stack,  I tend to focus on building production-ready systems across web, mobile, and backend environments. And enjoying the process
 
 ---
 
 ## Experience
 
-### Primary Developer — NSII *(3 years)*
+### Primary Developer — NSII *(4 years)*
 > *Angular · Capacitor · Firebase · BLE · iOS*
 
 Day-to-day developer on a small team building a cross-platform athlete safety platform for real-time head trauma monitoring using wearable sensors.
 
-- **Web & Mobile:** Built the frontend in Angular and packaged it for iOS using Capacitor, supporting both web and mobile platforms
+- **Web & Mobile:** Building the frontend in Angular and packaged it for iOS using Capacitor, supporting both web and mobile platforms
 - **Bluetooth Integration:** Implemented BLE features using Capacitor plugins for sensor connectivity — including connect, read, write, and activation logic
 - **Backend:** Worked with a Firebase backend, contributing to Cloud Functions and Firestore for real-time data handling
 - **Hardware/Software Bridge:** Ensured reliable communication between the app and physical wearable sensors
 
 ---
+
+### Maintance Developer — Spare Wheel Oy *(Half year)*
+> *PHP · SQL*
+
+A part time job to maintain code on OsCommerce website. 
+- **Web** Debugging, adding features to the site.
+- **SQL & Stock data:** Debugging and handling stock data. Navigating in Linux environment to find out bugs and fix them
+
 
 ## Featured Projects
 
