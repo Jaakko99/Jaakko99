@@ -38,52 +38,52 @@ A modular, high-performance suite of native mobile plugins designed to unlock en
 ### [Aegis — Framework Siege Lab](https://github.com/Jaakko99/aegis)
 > *Elixir · Phoenix LiveView · OTP*
 
-A high-concurrency stress-testing engine that uses the BEAM VM to spawn thousands of lightweight processes and benchmark how modern frontend frameworks (React, Angular, Vue) hold up under extreme simulated load. Built around Elixir's "Let it Crash" philosophy and supervision trees.
+A  fun test project to stress-test frameworks. This uses BEAM VM to spawn thousands of lightweight processes and benchmark how modern frontend frameworks (React, Angular, Vue) hold up under extreme simulated load.
 
 ---
 
 ### [Monte Carlo Neutron Transport Simulator](https://github.com/Jaakko99/Monte-Carlo-Neutron-Transport)
 > *C++ · Monte Carlo Methods · Nuclear Physics*
 
-Educational physics simulation modeling neutron behavior in fissile material using stochastic methods. Inspired by the computational challenges faced at Los Alamos during the Manhattan Project — recreating foundational criticality calculations with modern C++. Transitioned from Python prototype to high-performance C++ to handle exponential scaling.
+Educational physics simulation modeling neutron behavior in fissile material using stochastic methods. Inspired by the computational challenges faced at Los Alamos during the Manhattan Project, recreating foundational criticality calculations with  C++.
 
 ---
 
 ### [Tapo Scanner](https://github.com/Jaakko99/tapo-scan)
 > *Rust · Tokio · btleplug*
 
-A lightweight async BLE device scanner and fingerprinting tool for reverse-engineering IoT and sensor devices. Dumps manufacturer-specific data and service UUID payloads — useful when devices have no public API or documentation.
+A lightweight async BLE device scanner and fingerprinting tool for reverse-engineering IoT and sensor devices. Dumps manufacturer-specific data and service UUID payloads, a test when devices have no public API or documentation.
 
 ---
 
 ### [Timeline field Ripple Simulator](https://github.com/Jaakko99/ripple-effect-simulation)
 > *Python · p5.js · Wave-Packet Dynamics*
 
-Physics-inspired simulation of interacting timelines in 2D temporal space, visualizing ripples, interference, mergers, and time reversals. Treats timelines as wave packets with phase, energy, and direction — exploring emergent behavior through quantum analogies, cosmology, and speculative temporal mechanics. Built to test intuition about timeline paradoxes and convergence.
+Physics-inspired simulation of interacting timelines in 2D temporal space, visualizing ripples, interference, mergers, and time reversals. Treats timelines as wave packets with phase, energy, and direction, exploring emergent behavior through quantum analogies, cosmology, and speculative temporal mechanics. Built to test intuition about timeline paradoxes and convergence.
 
 ## Tech Stack
 
 **Languages**
-`Elixir` `Rust` `Kotlin` `TypeScript` `Python` `Javascript`, `C++`, `C#`
+`Rust` `Kotlin` `TypeScript` `Python` `Javascript`, `C++`, `C#`
 
 **Frontend & Mobile**
-`Angular` `Phoenix LiveView` `Capacitor`
+`Angular` `Capacitor`, `React`
 
 **Backend & Infrastructure**
-`Phoenix` `Firebase` `OTP / BEAM`
+`` `Firebase` `SQL ( at work)
 
 **Concepts I care about**
-`Concurrency` `On-device ML and ML/AI generally` `BLE / IoT` `Real-time systems` `Physics`
+`On-device ML and ML/AI generally` `BLE / IoT` `Real-time systems` `Physics`, `And to just enjoy coding whether its web app or anyhting else` 
 
 ---
 
 ## A bit about me
 
-Self-taught developer with 3 years of production experience in full-stack systems. Just curiosity, late nights, and a habit of asking *"How can i build this now?"*
+Self-taught developer with 4 years of production experience in full-stack systems. Just curiosity, late nights, and a habit of asking *"How can i build this now?"*
 
-3 years of production full stack experience — from real-time wearable health data to stress-testing JavaScript runtimes with Elixir — picking up languages like Rust and Elixir not because they were trendy, but because the problems demanded them.
+4 years of production full stack experience,  from real-time wearable health data to stress-testing JavaScript runtimes with Elixir. Used to picking up languages like Rust and Elixir not because they were trendy, but because the project needed it. 
 
-I care about writing code that's honest about what it's doing — readable, well-structured, and built to last.
+I care about writing code that's honest about what it's doing, readable, well-structured, and built to last.
 
 ---
 
