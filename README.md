@@ -22,7 +22,7 @@ Day-to-day developer on a small team building a cross-platform athlete safety pl
 
 ---
 
-### Maintance Developer — Spare Wheel Oy *(Half year)*
+### Maintenance Developer — Spare Wheel Oy *(Half year)*
 > *PHP · SQL*
 
 A part time job to maintain code on OsCommerce website. 
@@ -35,10 +35,10 @@ A part time job to maintain code on OsCommerce website.
 ### [CapCore — Next-Gen Native Capacitor Framework](https://github.com/Jaakko99/Capcore)
 > *Kotlin · ML Kit · CoreML · Capacitor*
 
-A modular, high-performance suite of native mobile plugins designed to unlock enterprise-grade hardware capabilities for hybrid web applications. Built as a unified pnpm/npm-workspaced monorepo architecture to cleanly decouple native runtime engines from sandbox playgrounds.
+A modular suite for native mobile plugins designed to unlock hardware capabilities for hybrid web applications. Built as a unified pnpm/npm-workspaced monorepo architecture to cleanly decouple native runtime engines from sandbox playgrounds.
 
 * **`@capcore/vision` (Current Engine):** An on-device object segmentation and intelligent recoloring engine utilizing Google ML Kit (Android) and CoreML (iOS). Runs entirely local on the device hardware to ensure zero data egress and zero cloud API latencies. Built for virtual try-ons, product visualization, and interior design.
-* **The Roadmap:** Expanding the ecosystem with **CapVision AR** (bypassing standard camera viewports to inject native ARCore/ARKit pipelines beneath transparent webviews) and **CapBrain** (local mobile LLM execution via ONNX Runtime Mobile/MediaPipe for private on-device RAG layers).
+* **The Roadmap:** Expanding the ecosystem with **CapVision AR** (bypassing standard camera viewports to inject native ARCore/ARKit pipelines beneath transparent webviews) and **CapBrain** (local mobile LLM execution via ONNX Runtime Mobile/MediaPipe for private on-device RAG layers). A bit ambigious project, and for pure curiosity.
 
 ---
 
@@ -67,7 +67,7 @@ A lightweight async BLE device scanner and fingerprinting tool for reverse-engin
 ### [Timeline field Ripple Simulator](https://github.com/Jaakko99/ripple-effect-simulation)
 > *Python · p5.js · Wave-Packet Dynamics*
 
-Physics-inspired simulation of interacting timelines in 2D temporal space, visualizing ripples, interference, mergers, and time reversals. Treats timelines as wave packets with phase, energy, and direction, exploring emergent behavior through quantum analogies, cosmology, and speculative temporal mechanics. Built to test intuition about timeline paradoxes and convergence.
+Physics-inspired simulation of interacting timelines in 2D temporal space, visualizing ripples, interference, mergers, and time reversals. Treats timelines as wave packets with phase, energy, and direction, exploring emergent behavior through quantum analogies, cosmology, and speculative temporal mechanics. Built to test intuition about timeline paradoxes, convergence and maybe bit too much thinking.
 
 ## Tech Stack
 
@@ -89,7 +89,7 @@ Physics-inspired simulation of interacting timelines in 2D temporal space, visua
 
 Self-taught developer with 4 years of production experience in full-stack systems. Just curiosity, late nights, and a habit of asking *"How can i build this now?"*
 
-4 years of production full stack experience,  from real-time wearable health data to stress-testing JavaScript runtimes with Elixir. Used to picking up languages like Rust and Elixir not because they were trendy, but because the project needed it. 
+I tend to grab languages or context not by whats trendy. Its more about the idea, and using language as tool to achieve it, example is that Aegis project
 
 I care about writing code that's honest about what it's doing, readable, well-structured, and built to last.
 
