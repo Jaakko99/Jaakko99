@@ -4,9 +4,8 @@
 
 ---
 
-I'm a self-taught developer with 4 years of full stack experience, driven by curiosity. I don't stick to one stack,  I tend to focus on building production-ready systems across web, mobile, and backend environments. And enjoying the process
+I'm a self-taught developer with 4 years of full-stack experience, driven by curiosity. I enjoy building production-ready systems across web, mobile, and backend environments, and I like exploring new technologies along the way.
 
----
 
 ## Experience
 
@@ -38,7 +37,7 @@ A part time job to maintain code on OsCommerce website.
 A modular suite for native mobile plugins designed to unlock hardware capabilities for hybrid web applications. Built as a unified pnpm/npm-workspaced monorepo architecture to cleanly decouple native runtime engines from sandbox playgrounds.
 
 * **`@capcore/vision` (Current Engine):** An on-device object segmentation and intelligent recoloring engine utilizing Google ML Kit (Android) and CoreML (iOS). Runs entirely local on the device hardware to ensure zero data egress and zero cloud API latencies. Built for virtual try-ons, product visualization, and interior design.
-* **The Roadmap:** Expanding the ecosystem with **CapVision AR** (bypassing standard camera viewports to inject native ARCore/ARKit pipelines beneath transparent webviews) and **CapBrain** (local mobile LLM execution via ONNX Runtime Mobile/MediaPipe for private on-device RAG layers). A bit ambigious project, and for pure curiosity.
+* **The Roadmap:** Expanding the ecosystem with **CapVision AR** (bypassing standard camera viewports to inject native ARCore/ARKit pipelines beneath transparent webviews) and **CapBrain** (local mobile LLM execution via ONNX Runtime Mobile/MediaPipe for private on-device RAG layers). The roadmap is exploratory and driven by curiosity rather than a fixed commercial goal.
 
 ---
 
@@ -46,7 +45,7 @@ A modular suite for native mobile plugins designed to unlock hardware capabiliti
 ### [Aegis — Framework Siege Lab](https://github.com/Jaakko99/aegis)
 > *Elixir · Phoenix LiveView · OTP*
 
-A  fun test project to stress-test frameworks. This uses BEAM VM to spawn thousands of lightweight processes and benchmark how modern frontend frameworks (React, Angular, Vue) hold up under extreme simulated load.
+An experimental project exploring how frontend frameworks behave under simulated load, using the BEAM VM to spawn thousands of lightweight processes.
 
 ---
 
@@ -67,7 +66,7 @@ A lightweight async BLE device scanner and fingerprinting tool for reverse-engin
 ### [Timeline field Ripple Simulator](https://github.com/Jaakko99/ripple-effect-simulation)
 > *Python · p5.js · Wave-Packet Dynamics*
 
-Physics-inspired simulation of interacting timelines in 2D temporal space, visualizing ripples, interference, mergers, and time reversals. Treats timelines as wave packets with phase, energy, and direction, exploring emergent behavior through quantum analogies, cosmology, and speculative temporal mechanics. Built to test intuition about timeline paradoxes, convergence and maybe bit too much thinking.
+Physics-inspired simulation of interacting timelines in 2D temporal space, visualizing ripples, interference, mergers, and time reversals. Treats timelines as wave packets with phase, energy, and direction, exploring emergent behavior through quantum analogies, cosmology, and speculative temporal mechanics. Built to explore ideas around timeline paradoxes, convergence, and perhaps overthink time a little.
 
 ## Tech Stack
 
@@ -81,8 +80,7 @@ Physics-inspired simulation of interacting timelines in 2D temporal space, visua
 `` `Firebase` `SQL ( at work)
 
 **Concepts I care about**
-`On-device ML and ML/AI generally` `BLE / IoT` `Real-time systems` `Physics`, `And to just enjoy coding whether its web app or anyhting else` 
-
+On-device ML · BLE / IoT · Real-time systems · Systems experimentation
 ---
 
 ## A bit about me
