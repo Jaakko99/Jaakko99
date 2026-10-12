@@ -77,7 +77,7 @@ Physics-inspired simulation of interacting timelines in 2D temporal space, visua
 `Angular` `Capacitor`, `React`
 
 **Backend & Infrastructure**
-`` `Firebase` `SQL ( at work)
+`Firebase`, `SQL`, `Node.js`
 
 **Concepts I care about**
 On-device ML · BLE / IoT · Real-time systems · Systems experimentation
