@@ -9,7 +9,7 @@ I'm a self-taught developer with 4 years of full-stack experience, driven by cur
 
 ## Experience
 
-### Software Developer — NSII *(4 years)*
+### Software Developer — Widian Oy *(4 years)*
 > *Angular · Capacitor · Firebase · BLE · iOS*
 
 Day-to-day developer on a small team building a cross-platform athlete safety platform for real-time head trauma monitoring using wearable sensors.
