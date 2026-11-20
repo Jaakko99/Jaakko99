@@ -79,15 +79,12 @@ Physics-inspired simulation of interacting timelines in 2D temporal space, visua
 **Backend & Infrastructure**
 `Firebase`, `SQL`, `Node.js`
 
-**Concepts I care about**
-On-device ML · BLE / IoT · Real-time systems · Systems experimentation
----
 
 ## A bit about me
 
 Self-taught developer with 4 years of production experience in full-stack systems. Just curiosity, late nights, and a habit of asking *"How can i build this now?"*
 
-I tend to grab languages or context not by whats trendy. Its more about the idea, and using language as tool to achieve it, example is that Aegis project
+I tend to grab languages or context not by whats trendy. Its more about the idea I got, and using language as tool to achieve it.
 
 I care about writing code that's honest about what it's doing, readable, well-structured, and built to last.
 
